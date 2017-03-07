@@ -1,0 +1,9 @@
+c:\users\pzey\documents\visual studio 2013\Projects\Matabe Dr\Matabe Dr\bin\Debug\Matabe Dr.exe.config
+C:\Users\PZey\documents\visual studio 2013\Projects\Matabe Dr\Matabe Dr\obj\Debug\Matabe Dr.csprojResolveAssemblyReference.cache
+C:\Users\PZey\documents\visual studio 2013\Projects\Matabe Dr\Matabe Dr\obj\Debug\Matabe_Dr.Properties.Resources.resources
+C:\Users\PZey\documents\visual studio 2013\Projects\Matabe Dr\Matabe Dr\obj\Debug\Matabe_Dr.SearchForm.resources
+C:\Users\PZey\documents\visual studio 2013\Projects\Matabe Dr\Matabe Dr\obj\Debug\Matabe Dr.csproj.GenerateResource.Cache
+C:\Users\PZey\documents\visual studio 2013\Projects\Matabe Dr\Matabe Dr\bin\Debug\Matabe Dr.exe
+C:\Users\PZey\documents\visual studio 2013\Projects\Matabe Dr\Matabe Dr\bin\Debug\Matabe Dr.pdb
+C:\Users\PZey\documents\visual studio 2013\Projects\Matabe Dr\Matabe Dr\obj\Debug\Matabe Dr.exe
+C:\Users\PZey\documents\visual studio 2013\Projects\Matabe Dr\Matabe Dr\obj\Debug\Matabe Dr.pdb

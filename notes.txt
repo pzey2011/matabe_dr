@@ -1,0 +1,5 @@
+1 - Change C:/Users/PZey/Desktop/MatabDB.accdb;
+2 - Build > Configuration Manager > Active Solution platform >New.. >New platform x64 and Copy settings from x32
+or download AccessDatabaseEngine.exe from http://www.microsoft.com/en-us/download/confirmation.aspx?id=13255
+
+age moshkel avvalin safhe dashti boro Program.cs > Application.Run(..) ra avaz kon
